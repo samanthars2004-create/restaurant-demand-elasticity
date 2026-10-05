@@ -1,0 +1,4 @@
+Model,RMSE (pct. points),Mean abs. error,Mean error (bias),Months
+"Price model (IV), trained 1993-2019",3.0,2.42,-1.3,50
+"Income-only model, trained 1993-2019",3.81,2.96,-2.01,50
+Average growth 1993-2019,3.25,2.53,-2.09,50

@@ -1,0 +1,19 @@
+{
+  "sample": "1993-01 to 2026-08",
+  "n_months": 376,
+  "base_year": 2025,
+  "pass_through_wage": 0.5169213450271398,
+  "pass_through_wage_se": 0.09144206474235558,
+  "first_stage_wage": 0.460973702371937,
+  "first_stage_ppi": -0.10854421265620243,
+  "z_period_diff": -0.5115267556431663,
+  "baseline_sales_bn_yr": 1061.098,
+  "rolling_min": -1.6615407908209625,
+  "rolling_max": 0.2012718508708991,
+  "rolling_min_end": "2007",
+  "rolling_max_end": "2019",
+  "rolling_last": 0.2012718508708991,
+  "rolling_share_negative_sig": 0.45714285714285713,
+  "menu_price_growth_total": 0.1779781850044604,
+  "grocery_price_growth_total": -0.01624545982803194
+}
